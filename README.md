@@ -11,7 +11,3 @@
 <p align="center">
   <img src="images/pcb.png" width="300">
 </p>
-
-<p align="center">
-  <img src="images/sch.pcb.png" width="300">
-</p>
