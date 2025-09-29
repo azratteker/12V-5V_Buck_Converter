@@ -1,5 +1,13 @@
 # 12V-5V Buck Converter
 
-![boardview](images/board1.png)
-![boardview](images/board2.png)
-![boardview](images/pcb.png)
+<p align="center">
+  <img src="images/board1.png" width="300">
+</p>
+
+<p align="center">
+  <img src="images/board2.png" width="300">
+</p>
+
+<p align="center">
+  <img src="images/pcb.png" width="300">
+</p>
