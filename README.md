@@ -1,7 +1,7 @@
 # 12V-5V Buck Converter
 
 <p align="center">
-  <img src="images/board1.png" width="5500">
+  <img src="images/board1.png" width="500">
 </p>
 
 <p align="center">
